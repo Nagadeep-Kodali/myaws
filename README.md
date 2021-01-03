@@ -1,2 +1,3 @@
-# myaws
-myAWS
+# maven-project
+
+Simple Maven Project
